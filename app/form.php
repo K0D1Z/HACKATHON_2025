@@ -121,11 +121,11 @@
     <div class="hidden md:block bg-white"> 
         <div class="max-w-6xl mx-auto px-4 py-3 flex flex-wrap justify-center gap-x-6 gap-y-2 md:gap-x-8">
             <a href="index.php" class="text-base font-semibold text-gray-600 hover:text-brand-blue transition-colors hover:border-b-2 hover:border-brand-blue">STRONA GŁÓWNA</a>
+            <a href="form.php" class="text-base font-semibold text-brand-blue border-b-2 border-brand-blue">ANKIETA</a>
             <a href="ofertypracy.php" class="text-base font-semibold text-gray-600 hover:text-brand-blue transition-colors hover:border-b-2 hover:border-brand-blue">OFERTY PRACY</a>
             <a href="ofertyksztalcenia.php" class="text-base font-semibold text-gray-600 hover:text-brand-blue transition-colors hover:border-b-2 hover:border-brand-blue">OFERTY EDUKACJI</a>
             <a href="slownikzawodow.php" class="text-base font-semibold text-gray-600 hover:text-brand-blue transition-colors hover:border-b-2 hover:border-brand-blue">SŁOWNIK ZAWODÓW</a>
             <a href="dodajoferte.php" class="text-base font-semibold text-gray-600 hover:text-brand-blue transition-colors hover:border-b-2 hover:border-brand-blue">DODAJ OFERTĘ</a>
-            <a href="form.php" class="text-base font-semibold text-brand-blue border-b-2 border-brand-blue">ANKIETA</a>
         </div>
     </div>
 
@@ -147,11 +147,11 @@
 
             <div class="flex flex-col space-y-5 p-6 mt-10 text-center">
                 <a href="index.php" class="text-lg font-semibold text-gray-600 hover:text-brand-blue transition-colors">STRONA GŁÓWNA</a>
+                <a href="form.php" class="text-lg font-semibold text-brand-blue border-b-2 border-brand-blue pb-1">ANKIETA</a>
                 <a href="ofertypracy.php" class="text-lg font-semibold text-gray-600 hover:text-brand-blue transition-colors">OFERTY PRACY</a>
                 <a href="ofertyksztalcenia.php" class="text-lg font-semibold text-gray-600 hover:text-brand-blue transition-colors">OFERTY EDUKACJI</a>
                 <a href="slownikzawodow.php" class="text-lg font-semibold text-gray-600 hover:text-brand-blue transition-colors">SŁOWNIK ZAWODÓW</a>
                 <a href="dodajoferte.php" class="text-lg font-semibold text-gray-600 hover:text-brand-blue transition-colors">DODAJ OFERTĘ</a>
-                <a href="form.php" class="text-lg font-semibold text-brand-blue border-b-2 border-brand-blue pb-1">ANKIETA</a>
             </div>
 
             <div class="mt-auto border-t border-gray-200 p-6 text-center space-y-4">
