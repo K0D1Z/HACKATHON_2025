@@ -24,40 +24,38 @@ Główne elementy platformy, które pomogą użytkownikom w planowaniu kariery:
 
         Możliwości zdobycia tych kwalifikacji (np. konkretne kursy, szkoły, studia).
 
-    Baza Uczelni Wyższych i Oferty Edukacyjnej:
+Baza Uczelni Wyższych i Oferty Edukacyjnej:
 
-        Katalog kursów zawodowych
-		
-		Oferty studiów wyższych
+Katalog kursów zawodowych	
+Oferty studiów wyższych
 
-    Baza Szkoleń, Kursów i Doradztwa:
+Baza Szkoleń, Kursów i Doradztwa:
 
-        Zestawienie dostępnych w Płocku szkoleń i kursów zawodowych.
+Zestawienie dostępnych w Płocku szkoleń i kursów zawodowych.
 
-        Informacje o doradcach zawodowych i punktach wsparcia.
+Informacje o doradcach zawodowych i punktach wsparcia.
+Przegląd lokalnych programów akceleracyjnych dla młodych przedsiębiorców i innowatorów.
 
-        Przegląd lokalnych programów akceleracyjnych dla młodych przedsiębiorców i innowatorów.
+Baza Lokalnych Pracodawców:
 
-    Baza Lokalnych Pracodawców:
+- Katalog kluczowych pracodawców działających w regionie Płocka.
 
-        Katalog kluczowych pracodawców działających w regionie Płocka.
-
-        Przykłady oferowanych stanowisk i profil działalności firmy.
+- Przykłady oferowanych stanowisk i profil działalności firmy.
 
 💻 Technologie
 
 (Sekcja do wypełnienia po ustaleniu konkretnych technologii użytych w projekcie, np.:)
 
-    Frontend: HTML, TailWindCSS, JavaScript
+Frontend: HTML, TailWindCSS, JavaScript
 
-    Backend: PHP
+Backend: PHP
 
-    Baza Danych: MySQL
+Baza Danych: MySQL
 
 📞 Kontakt
 
 Jesteśmy otwarci na sugestie i współpracę!
 
-    Zespół Projektowy: Trinf
+Zespół Projektowy: Trinf
 
-    Adres e-mail: kodiz2005@gmail.com
+Adres e-mail: kodiz2005@gmail.com
