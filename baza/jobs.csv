@@ -1,0 +1,181 @@
+job_id,name,level_required,avg_salary,industry,riasec_type
+1,Programista,Kurs,6288,IT,I
+2,Administrator systemów,Liceum,8388,IT,I
+3,Specjalista ds. sieci,Zasadnicza szkoła zawodowa,11652,IT,I
+4,Analityk danych,Liceum,4241,IT,I
+5,Nauczyciel,Kurs,8023,Edukacja,S
+6,Pedagog,Liceum,9178,Edukacja,S
+7,Wychowawca,Studia,11320,Edukacja,S
+8,Wykładowca,Kurs,3541,Edukacja,S
+9,Pielęgniarka,Technikum,8094,Zdrowie,S
+10,Lekarz,Technikum,3682,Zdrowie,I
+11,Ratownik medyczny,Technikum,3921,Zdrowie,S
+12,Położna,Kurs,8634,Zdrowie,S
+13,Inżynier budowy,Zasadnicza szkoła zawodowa,6274,Inżynieria,R
+14,Inżynier środowiska,Studia,8054,Inżynieria,I
+15,Technolog,Liceum,10877,Inżynieria,I
+16,Mechanik,Zasadnicza szkoła zawodowa,5751,Inżynieria,R
+17,Pracownik administracyjny,Zasadnicza szkoła zawodowa,8539,Administracja,C
+18,Urzednik,Zasadnicza szkoła zawodowa,11218,Administracja,C
+19,Sekretarka,Liceum,11383,Administracja,C
+20,Asystent,Kurs,11285,Administracja,C
+21,Księgowy,Liceum,7506,Ekonomia,C
+22,Analityk finansowy,Technikum,11357,Ekonomia,I
+23,Doradca finansowy,Zasadnicza szkoła zawodowa,8673,Ekonomia,E
+24,Ekonomista,Studia,5236,Ekonomia,I
+25,Magazynier,Studia,5217,Logistyka,R
+26,Kierowca,Studia,5291,Logistyka,R
+27,Spedytor,Technikum,9304,Logistyka,E
+28,Logistyk,Technikum,11765,Logistyka,C
+29,Aktor,Studia,8844,Kultura,A
+30,Malarz,Technikum,4451,Kultura,A
+31,Muzyk,Kurs,10708,Kultura,A
+32,Pisarz,Liceum,9370,Kultura,A
+33,Cukiernik,Studia,10221,Administracja,R
+34,Dietetyk,Liceum,7448,Zdrowie,S
+35,Taksówkarz,Studia,9673,Logistyka,R
+36,Marynarz,Studia,6974,Logistyka,R
+37,Archiwista,Zasadnicza szkoła zawodowa,6489,Administracja,C
+38,Hydraulik,Technikum,11342,Inżynieria,R
+39,Kucharz,Zasadnicza szkoła zawodowa,5919,Edukacja,R
+40,Rolnik,Technikum,9216,Inżynieria,R
+41,Leśnik,Kurs,10935,Inżynieria,R
+42,Listonosz,Technikum,5970,Logistyka,R
+43,Farmaceuta,Kurs,9690,Zdrowie,I
+44,Jubiler,Studia,10825,Kultura,R
+45,Policjant,Zasadnicza szkoła zawodowa,6657,Administracja,S
+46,Fryzjer,Liceum,8417,Edukacja,S
+47,Krawiec,Technikum,9020,Kultura,R
+48,Stolarz,Technikum,6137,Inżynieria,R
+49,Geodeta,Technikum,5605,Inżynieria,I
+50,Informatyk,Technikum,8150,IT,I
+51,Weterynarz,Liceum,6209,Zdrowie,I
+52,Psycholog,Technikum,4034,Zdrowie,S
+53,Kierownik budowy,Technikum,4169,Inżynieria,E
+54,Windykator,Technikum,7539,Ekonomia,E
+55,Trener,Liceum,8443,Edukacja,S
+56,Tłumacz,Kurs,8984,Edukacja,A
+57,Grafik,Studia,9111,IT,A
+58,Architekt,Studia,9727,Inżynieria,A
+59,Celnik,Liceum,6559,Administracja,C
+60,Strażak,Studia,9770,Administracja,R
+61,Adwokat,Technikum,8586,Administracja,E
+62,Sędzia,Technikum,6971,Administracja,I
+63,Prokurator,Liceum,7490,Administracja,I
+64,Notariusz,Liceum,11029,Administracja,C
+65,Komornik,Studia,6324,Administracja,E
+66,Radca prawny,Liceum,4865,Administracja,I
+67,Detektyw,Zasadnicza szkoła zawodowa,7100,Administracja,I
+68,Ochroniarz,Kurs,6001,Administracja,R
+69,Ksiądz,Liceum,8442,Edukacja,S
+70,Polityk,Liceum,7289,Administracja,E
+71,Dziennikarz,Studia,10313,Kultura,A
+72,Prezenter,Liceum,8491,Kultura,A
+73,Operator kamery,Studia,11340,Kultura,R
+74,Montażysta,Kurs,11082,Kultura,R
+75,Dźwiękowiec,Kurs,6326,Kultura,R
+76,Oświetleniowiec,Liceum,4230,Kultura,R
+77,Charakteryzator,Liceum,10519,Kultura,A
+78,Scenograf,Liceum,9646,Kultura,A
+79,Kostiumograf,Zasadnicza szkoła zawodowa,9566,Kultura,A
+80,Rekwizytor,Zasadnicza szkoła zawodowa,9077,Kultura,R
+81,Inspicjent,Kurs,4639,Kultura,C
+82,Reżyser,Technikum,7645,Kultura,E
+83,Producent,Kurs,7700,Kultura,E
+84,Choreograf,Studia,10156,Kultura,A
+85,Tancerz,Kurs,9433,Kultura,A
+86,Śpiewak,Zasadnicza szkoła zawodowa,8789,Kultura,A
+87,Aktor głosowy,Technikum,4882,Kultura,A
+88,Kompozytor,Zasadnicza szkoła zawodowa,8843,Kultura,A
+89,Aranżer,Liceum,11181,Kultura,A
+90,Dyrygent,Liceum,4505,Kultura,E
+91,Bibliotekarz,Technikum,11768,Edukacja,C
+92,Antykwariusz,Studia,11843,Ekonomia,I
+93,Kustosz,Technikum,4217,Kultura,C
+94,Konserwator zabytków,Zasadnicza szkoła zawodowa,7978,Kultura,R
+95,Przewodnik turystyczny,Technikum,9977,Edukacja,S
+96,Pilot wycieczek,Liceum,7155,Edukacja,E
+97,Animator czasu wolnego,Kurs,8632,Edukacja,S
+98,Rezydent,Studia,8202,Logistyka,E
+99,Barman,Studia,4843,Edukacja,S
+100,Barista,Kurs,11822,Edukacja,S
+101,Sommelier,Technikum,4938,Edukacja,S
+102,Recepcjonista,Liceum,4093,Administracja,C
+103,Hostessa,Liceum,10019,Ekonomia,S
+104,Model,Zasadnicza szkoła zawodowa,6659,Kultura,A
+105,Florysta,Kurs,7418,Kultura,R
+106,Ogrodnik,Liceum,5746,Inżynieria,R
+107,Szklarz,Liceum,4283,Inżynieria,R
+108,Zdun,Zasadnicza szkoła zawodowa,5635,Inżynieria,R
+109,Kominiarz,Studia,4369,Inżynieria,R
+110,Dekarz,Technikum,10191,Inżynieria,R
+111,Cieśla,Studia,4789,Inżynieria,R
+112,Murarz,Kurs,11667,Inżynieria,R
+113,Tynkarz,Technikum,5563,Inżynieria,R
+114,Malarz budowlany,Studia,11345,Inżynieria,R
+115,Tapeciarz,Zasadnicza szkoła zawodowa,11943,Inżynieria,R
+116,Posadzkarz,Liceum,7089,Inżynieria,R
+117,Glazurnik,Liceum,11656,Inżynieria,R
+118,Kamieniarz,Zasadnicza szkoła zawodowa,5913,Inżynieria,R
+119,Betoniarz,Studia,7239,Inżynieria,R
+120,Zbrojarz,Studia,4929,Inżynieria,R
+121,Monter,Liceum,8937,Inżynieria,R
+122,Spawacz,Zasadnicza szkoła zawodowa,7950,Inżynieria,R
+123,Ślusarz,Technikum,5722,Inżynieria,R
+124,Tokarz,Studia,5262,Inżynieria,R
+125,Frezer,Studia,6978,Inżynieria,R
+126,Operator maszyn,Zasadnicza szkoła zawodowa,6178,Inżynieria,R
+127,Elektryk,Kurs,8146,Inżynieria,R
+128,Elektronik,Technikum,6289,IT,I
+129,Automatyk,Zasadnicza szkoła zawodowa,6222,IT,I
+130,Robotics,Liceum,6251,IT,I
+131,Teleinformatyk,Kurs,6057,IT,I
+132,Mechatronik,Kurs,11082,IT,I
+133,Bionik,Studia,8939,IT,I
+134,Optyk,Zasadnicza szkoła zawodowa,5494,Zdrowie,R
+135,Protetyk słuchu,Zasadnicza szkoła zawodowa,9766,Zdrowie,S
+136,Technik dentystyczny,Kurs,7192,Zdrowie,R
+137,Masażysta,Liceum,7244,Zdrowie,S
+138,Fizjoterapeuta,Kurs,9673,Zdrowie,S
+139,Ortoptysta,Technikum,6422,Zdrowie,S
+140,Logopeda,Kurs,11218,Edukacja,S
+141,Surdopedagog,Liceum,10511,Edukacja,S
+142,Tyflopedagog,Liceum,8844,Edukacja,S
+143,Oligofrenopedagog,Liceum,8130,Edukacja,S
+144,Socjoterapeuta,Liceum,8417,Edukacja,S
+145,Terapeuta zajęciowy,Studia,4034,Zdrowie,S
+146,Asystent osoby niepełnosprawnej,Technikum,10156,Zdrowie,S
+147,Opiekun medyczny,Studia,9433,Zdrowie,S
+148,Opiekunka dziecięca,Zasadnicza szkoła zawodowa,8789,Edukacja,S
+149,Niania,Technikum,4882,Edukacja,S
+150,Pracownik socjalny,Liceum,4505,Administracja,S
+151,Kurator sądowy,Kurs,8202,Administracja,S
+152,Pośrednik pracy,Liceum,11843,Administracja,E
+153,Doradca zawodowy,Liceum,4217,Edukacja,S
+154,Coach,Zasadnicza szkoła zawodowa,7978,Edukacja,E
+155,Negocjator,Zasadnicza szkoła zawodowa,9977,Ekonomia,E
+156,Mediator,Studia,7155,Administracja,S
+157,Handlowiec,Technikum,8632,Ekonomia,E
+158,Sprzedawca,Kurs,4843,Ekonomia,E
+159,Kasjer,Kurs,11822,Ekonomia,C
+160,Fakturzysta,Liceum,4938,Administracja,C
+161,Telemarketer,Studia,4093,Ekonomia,E
+162,Audytor,Studia,4929,Ekonomia,I
+163,Kosztorysant,Kurs,11414,Kultura,C
+164,Fasowacz,Liceum,7211,IT,R
+165,Służący,Technikum,9721,Inżynieria,S
+166,Sufler,Technikum,9534,Administracja,A
+167,Stajenny,Technikum,4329,Edukacja,R
+168,Ratownik,Studia,9072,Administracja,S
+169,Ankieter,Studia,10579,Zdrowie,C
+170,Fotoreporter,Zasadnicza szkoła zawodowa,5660,Zdrowie,A
+171,Wydawca,Technikum,7833,Inżynieria,E
+172,Doradca inwestycyjny,Studia,4396,Kultura,E
+173,Kurier,Technikum,6445,Kultura,R
+174,Perfumiarz,Liceum,8519,IT,A
+175,Arborysta,Studia,5421,Inżynieria,R
+176,Scenarzysta,Technikum,9964,Zdrowie,A
+177,Kelner,Kurs,7301,Edukacja,S
+178,Lalkarz,Liceum,5794,IT,A
+179,Pośrednik w obrocie nieruchomościami,Liceum,8113,Edukacja,E
+180,Pośrednik finansowy,Studia,8260,Ekonomia,E

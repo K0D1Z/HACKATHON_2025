@@ -1,0 +1,55 @@
+Regulamin Portalu KIERUNEKPLOCK.PL
+
+§ 1 Postanowienia Ogólne
+
+    Niniejszy regulamin określa zasady korzystania z Portalu internetowego KIERUNEKPLOCK.PL (zwanego dalej "Portalem"), którego celem jest agregacja informacji o możliwościach rozwoju kariery, ścieżkach edukacyjnych i zawodowych dostępnych na terenie Płocka i okolic.
+
+    Portal ma charakter informacyjny i edukacyjny.
+
+    Użytkownikiem Portalu jest każda osoba, która korzysta z jego zasobów.
+
+    Korzystanie z Portalu jest bezpłatne i dobrowolne.
+
+§ 2 Funkcjonalności Portalu
+
+Portal oferuje m.in. następujące funkcjonalności:
+
+    Ankieta i Sugerowane Ścieżki: Narzędzie badające zainteresowania i mocne strony Użytkownika, które generuje propozycje kierunków edukacyjnych i zawodowych.
+
+    Baza Zawodów: Zestawienie poszukiwanych na lokalnym rynku pracy zawodów wraz z wymaganymi kwalifikacjami.
+
+    Baza Uczelni: Wykaz uczelni wyższych i ich oferty w Płocku.
+
+    Baza Szkoleń i Doradców: Informacje o szkoleniach, kursach, doradcach zawodowych i programach akceleracyjnych w regionie.
+
+    Baza Pracodawców: Zestawienie lokalnych firm i oferowanych przez nie stanowisk.
+
+§ 3 Odpowiedzialność i Treści
+
+    Wszystkie informacje zawarte w Portalu (w szczególności bazy danych i propozycje ścieżek) mają charakter orientacyjny i zostały zebrane w oparciu o publicznie dostępne dane oraz analizę lokalnego rynku pracy.
+
+    Portal KIERUNEKPLOCK.PL nie ponosi odpowiedzialności za decyzje edukacyjne lub zawodowe podejmowane przez Użytkownika na podstawie informacji uzyskanych z Portalu. Użytkownik powinien weryfikować kluczowe dla niego informacje u źródła (np. na stronach uczelni, w ofertach pracodawców).
+
+    Właściciele Portalu dokładają wszelkich starań, aby prezentowane treści były aktualne i rzetelne, jednak nie gwarantują ich całkowitej poprawności i kompletności.
+
+    Właściciele Portalu zastrzegają sobie prawo do wprowadzania zmian w treści i funkcjonalności Portalu w dowolnym momencie.
+
+§ 4 Ochrona Danych Osobowych i Prywatność (Klauzula Tymczasowa)
+
+    Portal KIERUNEKPLOCK.PL na obecnym etapie rozwoju (faza projektu/hackathonu) nie gromadzi, nie przetwarza i nie przechowuje żadnych danych osobowych Użytkowników.
+
+    Wszelkie dane wprowadzane przez Użytkownika do ankiety badającej zainteresowania są wykorzystywane wyłącznie do wygenerowania propozycji w trakcie bieżącej sesji korzystania z Portalu i nie są zapisywane na żadnym nośniku ani przekazywane podmiotom trzecim.
+
+    Wszelkie przyszłe zmiany w polityce prywatności, w tym rozpoczęcie gromadzenia danych, zostaną poprzedzone aktualizacją niniejszego Regulaminu oraz wdrożeniem odpowiedniej Polityki Prywatności zgodnej z obowiązującymi przepisami (w tym RODO).
+
+§ 5 Prawa Autorskie
+
+    Wszelkie prawa do Portalu KIERUNEKPLOCK.PL, w tym do jego nazwy, koncepcji, wyglądu graficznego, struktury oraz zawartych w nim treści (z wyłączeniem materiałów, których prawa autorskie należą do podmiotów trzecich i które są wykorzystywane zgodnie z prawem) przysługują twórcom Portalu.
+
+    Kopiowanie, powielanie lub wykorzystywanie jakichkolwiek elementów Portalu bez pisemnej zgody twórców jest zabronione.
+
+§ 6 Postanowienia Końcowe
+
+    Twórcy Portalu zastrzegają sobie prawo do zmiany niniejszego Regulaminu. Zmiany wchodzą w życie z chwilą ich publikacji na stronie Portalu.
+
+    W sprawach nieuregulowanych niniejszym Regulaminem mają zastosowanie przepisy prawa polskiego.

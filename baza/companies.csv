@@ -1,0 +1,201 @@
+company_id,name,industry,location,offers_internships
+1,Fundacja Rosada Sp.j.,Administracja,Otwock,Tak
+2,Pakos-Kuczaj Sp. z o.o. Sp.k.,Logistyka,Radomsko,Nie
+3,Kruszka s.c.,Zdrowie,Jasło,Nie
+4,Gabinety Sznura,Zdrowie,Łódź,Nie
+5,Świtaj-Kolek Sp.j.,Logistyka,Żagań,Nie
+6,Fundacja Zyzik,Logistyka,Zamość,Nie
+7,PPUH Bruzda-Jakubaszek Sp.k.,Inżynieria,Turek,Tak
+8,PPUH Marach Sp.k.,Zdrowie,Wągrowiec,Tak
+9,Kasper-Ograbek Sp. z o.o. Sp.k.,Edukacja,Jastrzębie-Zdrój,Nie
+10,Kubieniec S.A.,Kultura,Polkowice,Tak
+11,Stowarzyszenie Hałka,Edukacja,Lębork,Tak
+12,Prokurat s.c.,Administracja,Chorzów,Nie
+13,Stowarzyszenie Gietka-Kurczab s.c.,Ekonomia,Mikołów,Nie
+14,Grupa Korniak-Korniak Sp. z o.o.,Kultura,Słupsk,Tak
+15,PPUH Siwka Sp.j.,Zdrowie,Konin,Tak
+16,Słowiak-Kostorz Sp. z o.o. Sp.k.,Logistyka,Swarzędz,Nie
+17,Maraszek S.A.,Zdrowie,Swarzędz,Tak
+18,FPUH Sajewicz,IT,Biłgoraj,Nie
+19,FPUH Moneta-Ziarek Sp. z o.o. Sp.k.,Logistyka,Kalisz,Tak
+20,Strug Sp.k.,Logistyka,Świebodzice,Nie
+21,FPUH Małyszek-Langa s.c.,IT,Nowa Ruda,Nie
+22,Filek-Jagiełka Sp. z o.o.,Kultura,Sochaczew,Tak
+23,Zarzeczna s.c.,Administracja,Tarnobrzeg,Tak
+24,Pachnik Sp. z o.o.,Administracja,Białystok,Tak
+25,Buśko-Dziuda Sp.k.,Ekonomia,Siemianowice Śląskie,Tak
+26,FPUH Chatys,Zdrowie,Lubartów,Nie
+27,FPUH Such,Kultura,Wołomin,Nie
+28,Jacak Sp.k.,Inżynieria,Pabianice,Nie
+29,Nastały-Dziewior S.A.,IT,Kielce,Tak
+30,Żołna-Kołsut Sp. z o.o. Sp.k.,Logistyka,Łomża,Tak
+31,Wrochna Sp. z o.o.,IT,Krosno,Nie
+32,Rychel i syn s.c.,Zdrowie,Pabianice,Tak
+33,FPUH Klos-Polaszek i syn s.c.,IT,Białystok,Tak
+34,Gabinety Maligłówka-Gaudyn Sp.j.,Ekonomia,Świecie,Tak
+35,Kosznik-Trawka Sp.j.,Zdrowie,Ostrów Wielkopolski,Nie
+36,Rudzik S.A.,Edukacja,Czechowice-Dziedzice,Tak
+37,Jamrożek s.c.,Logistyka,Skarżysko-Kamienna,Tak
+38,PPUH Ważny i syn s.c.,IT,Nysa,Tak
+39,Ficoń-Wywiał Sp.j.,IT,Kwidzyn,Nie
+40,Fundacja Sieczko,IT,Sanok,Tak
+41,FPUH Śliz,Administracja,Gdynia,Tak
+42,Grupa Łyś S.A.,IT,Białystok,Nie
+43,Spółdzielnia Brzykcy,Administracja,Zakopane,Tak
+44,Fundacja Wyroślak,Edukacja,Ostrołęka,Tak
+45,FPUH Smalec-Warwas S.A.,IT,Dąbrowa Górnicza,Nie
+46,PPUH Praczyk-Pochroń Sp. z o.o. Sp.k.,Logistyka,Kluczbork,Nie
+47,Spółdzielnia Domowicz Sp.j.,Ekonomia,Dzierżoniów,Nie
+48,Grupa Mieszała,Edukacja,Kłodzko,Nie
+49,Grupa Guzdek,Administracja,Tarnowskie Góry,Tak
+50,Zyzik Sp. z o.o. Sp.k.,Zdrowie,Koło,Tak
+51,Fundacja Drygała-Sudak Sp.j.,Edukacja,Łomża,Nie
+52,Grupa Gmurczyk i syn s.c.,Ekonomia,Augustów,Tak
+53,Kapciak-Joszko Sp. z o.o. Sp.k.,Ekonomia,Myszków,Tak
+54,Kuban-Tereszkiewicz Sp. z o.o. Sp.k.,Inżynieria,Mława,Tak
+55,Spółdzielnia Minkiewicz,Logistyka,Jelenia Góra,Tak
+56,Gabinety Iskierka Sp.k.,Inżynieria,Dębica,Nie
+57,FPUH Drygas,Logistyka,Wyszków,Tak
+58,FPUH Kołata s.c.,Administracja,Dębica,Nie
+59,Fundacja Michnowicz Sp.k.,Kultura,Radomsko,Nie
+60,Stowarzyszenie Bejnarowicz,Edukacja,Bochnia,Tak
+61,Mydlak Sp. z o.o.,Zdrowie,Wyszków,Nie
+62,PPUH Kozaczuk-Romaniak S.A.,Edukacja,Zabrze,Tak
+63,FPUH Kowalak Sp. z o.o.,IT,Czechowice-Dziedzice,Tak
+64,PPUH Białczyk Sp. z o.o.,Inżynieria,Przemyśl,Tak
+65,PPUH Nieszporek-Dziadkiewicz s.c.,Administracja,Dębica,Nie
+66,Stowarzyszenie Radzio Sp.j.,Edukacja,Suwałki,Tak
+67,Gabinety Kwak-Misiejuk i syn s.c.,Edukacja,Czechowice-Dziedzice,Tak
+68,FPUH Flisek-Nastaj Sp. z o.o. Sp.k.,Kultura,Zduńska Wola,Tak
+69,Jarosiewicz-Smolorz Sp. z o.o.,Logistyka,Skierniewice,Nie
+70,Gabinety Seidel-Kleinschmidt Sp. z o.o.,Ekonomia,Wodzisław Śląski,Tak
+71,FPUH Koniecko,IT,Wołomin,Nie
+72,PPUH Koziarz-Rogal Sp.j.,Inżynieria,Sochaczew,Tak
+73,Męcik-Hinca i syn s.c.,Administracja,Łowicz,Nie
+74,Fundacja Ziarek Sp.k.,Zdrowie,Kraków,Nie
+75,Fundacja Olma Sp. z o.o. Sp.k.,IT,Jasło,Nie
+76,Krenc-Mszyca S.A.,Edukacja,Chorzów,Tak
+77,Spółdzielnia Ryguła-Humeniuk Sp. z o.o. Sp.k.,Edukacja,Bolesławiec,Tak
+78,Grupa Franiak,Logistyka,Jastrzębie-Zdrój,Nie
+79,PPUH Gabara-Kupidura i syn s.c.,Kultura,Głogów,Tak
+80,Grupa Pałyga-Obiała Sp.j.,Kultura,Zabrze,Nie
+81,Grupa Krystkowiak,Kultura,Lębork,Nie
+82,Stowarzyszenie Niedojadło-Jachimczak Sp.j.,Zdrowie,Nowy Dwór Mazowiecki,Tak
+83,Zinkiewicz Sp. z o.o.,Inżynieria,Tczew,Tak
+84,Fundacja John-Pitura i syn s.c.,Logistyka,Gniezno,Tak
+85,PPUH Borzym-Sobieszczyk Sp.k.,Logistyka,Legnica,Tak
+86,Milej-Bela Sp. z o.o.,Logistyka,Siedlce,Nie
+87,PPUH Puc-Gawłowicz s.c.,Zdrowie,Słupsk,Tak
+88,PPUH Bodziony,Administracja,Skarżysko-Kamienna,Tak
+89,Spółdzielnia Kunda,Zdrowie,Łowicz,Tak
+90,Gabinety Ryndak Sp.j.,Logistyka,Jawor,Tak
+91,Grupa Matyjaszek Sp. z o.o. Sp.k.,IT,Opole,Nie
+92,Łudzik S.A.,Edukacja,Żagań,Nie
+93,FPUH Nitek i syn s.c.,Kultura,Głogów,Nie
+94,Stowarzyszenie Machniak Sp. z o.o. Sp.k.,Edukacja,Żyrardów,Tak
+95,FPUH Janoszka,Edukacja,Starachowice,Tak
+96,Spółdzielnia Baranowicz-Kargol Sp. z o.o.,IT,Kościan,Tak
+97,Durys Sp. z o.o. Sp.k.,IT,Płock,Tak
+98,FPUH Garbaciak i syn s.c.,Kultura,Sochaczew,Nie
+99,Gabinety Dorawa,Administracja,Wałcz,Tak
+100,Kasak S.A.,Kultura,Sopot,Nie
+101,Żymełka-Kotlarek i syn s.c.,Administracja,Sopot,Tak
+102,Deryło-Kurcz i syn s.c.,Zdrowie,Ostrowiec Świętokrzyski,Nie
+103,Grupa Parada i syn s.c.,Zdrowie,Luboń,Nie
+104,Pazik-Kunda s.c.,Administracja,Jaworzno,Tak
+105,Lenda S.A.,Kultura,Kętrzyn,Tak
+106,Gaudyn Sp.j.,IT,Świnoujście,Tak
+107,Grupa Cłapa Sp.j.,Inżynieria,Gdańsk,Tak
+108,Stowarzyszenie Doroszuk,Ekonomia,Tomaszów Mazowiecki,Nie
+109,Dziechciarz i syn s.c.,Edukacja,Gdynia,Nie
+110,FPUH Rohde,IT,Zielona Góra,Nie
+111,Spółdzielnia Ziarek S.A.,Zdrowie,Ząbki,Nie
+112,Bejger-Bekus Sp.k.,Logistyka,Luboń,Nie
+113,Karyś i syn s.c.,IT,Jaworzno,Tak
+114,Borczyk-Lica Sp. z o.o. Sp.k.,Edukacja,Tarnów,Nie
+115,Spółdzielnia Wojaczek,Ekonomia,Czerwionka-Leszczyny,Nie
+116,Stowarzyszenie Owsiak,Inżynieria,Lębork,Tak
+117,Gabinety Hrynkiewicz,Kultura,Białystok,Nie
+118,Spółdzielnia Holc i syn s.c.,Logistyka,Ząbki,Nie
+119,Głowiak-Ziemkiewicz Sp.k.,IT,Kalisz,Tak
+120,PPUH Kozaczuk,Inżynieria,Sosnowiec,Tak
+121,Poreda Sp.k.,Logistyka,Jastrzębie-Zdrój,Nie
+122,PPUH Krefta-Brach Sp.k.,Logistyka,Kędzierzyn-Koźle,Nie
+123,PPUH Piszcz-Chojna Sp. z o.o.,Zdrowie,Piotrków Trybunalski,Nie
+124,Stowarzyszenie Karłowicz Sp. z o.o. Sp.k.,Inżynieria,Czechowice-Dziedzice,Nie
+125,PPUH Czajor-Wlaźlak s.c.,Ekonomia,Zduńska Wola,Nie
+126,Stowarzyszenie Startek,Zdrowie,Grodzisk Mazowiecki,Tak
+127,Arendarczyk-Tywoniuk i syn s.c.,Edukacja,Swarzędz,Tak
+128,Gabinety Rzeszutko-Kiryluk Sp. z o.o.,IT,Marki,Tak
+129,Karczmarek S.A.,Edukacja,Poznań,Nie
+130,Fundacja Andreasik,Kultura,Kościan,Nie
+131,FPUH Kukawka-Stoltmann S.A.,Logistyka,Kościerzyna,Nie
+132,PPUH Macha-Kala i syn s.c.,Logistyka,Żagań,Tak
+133,Spółdzielnia Kasperczak i syn s.c.,Ekonomia,Bełchatów,Tak
+134,Gabinety Lazarek,Administracja,Olsztyn,Tak
+135,FPUH Łuksza-Klebba Sp. z o.o. Sp.k.,Edukacja,Stargard Szczeciński,Tak
+136,Fundacja Mandrysz-Szmalec S.A.,Ekonomia,Mikołów,Nie
+137,Olko Sp. z o.o. Sp.k.,Administracja,Krotoszyn,Nie
+138,Gabinety Myszor,IT,Kwidzyn,Tak
+139,Fundacja Fogel Sp. z o.o.,Administracja,Sochaczew,Tak
+140,Gabinety Droździel,Ekonomia,Nowy Sącz,Tak
+141,Grupa Droździk Sp. z o.o. Sp.k.,Ekonomia,Siemianowice Śląskie,Nie
+142,PPUH Pilarek Sp.j.,Edukacja,Świnoujście,Tak
+143,Sobieszczyk-Reszke Sp. z o.o.,IT,Grodzisk Mazowiecki,Tak
+144,PPUH Schubert-Łyczak Sp.j.,Edukacja,Koszalin,Tak
+145,Gabinety Łobacz Sp. z o.o.,Zdrowie,Śrem,Nie
+146,Linkiewicz-Stempin i syn s.c.,Edukacja,Płońsk,Tak
+147,Stelmasiak i syn s.c.,Inżynieria,Piotrków Trybunalski,Tak
+148,Spółdzielnia Linkiewicz-Zacharek S.A.,Kultura,Brodnica,Tak
+149,Nastały-Morek Sp. z o.o. Sp.k.,Edukacja,Biłgoraj,Nie
+150,PPUH Rolek,Edukacja,Kraśnik,Nie
+151,PPUH Kwapisiewicz-Przewoźniak s.c.,Ekonomia,Łomża,Nie
+152,Fundacja Kozień,Edukacja,Jastrzębie-Zdrój,Nie
+153,PPUH Łepek-Potęga S.A.,Logistyka,Wieluń,Nie
+154,Stochel i syn s.c.,Edukacja,Wągrowiec,Nie
+155,Spółdzielnia Pyszny,Inżynieria,Puławy,Tak
+156,Chlebek Sp.k.,Administracja,Sanok,Nie
+157,Pompa i syn s.c.,Administracja,Giżycko,Nie
+158,Grupa Majdan s.c.,Zdrowie,Luboń,Nie
+159,Sommer-Jaśko Sp.k.,Administracja,Gliwice,Tak
+160,Gabinety Woronko Sp. z o.o. Sp.k.,Kultura,Głogów,Nie
+161,Bąbol i syn s.c.,Ekonomia,Dębica,Tak
+162,Grupa Panuś,IT,Kutno,Tak
+163,Spółdzielnia Pszczółka-Karyś Sp.j.,Edukacja,Włocławek,Tak
+164,PPUH Kucharzyk,Ekonomia,Gorzów Wielkopolski,Nie
+165,Grupa Wyderka-Masny Sp.j.,Administracja,Poznań,Tak
+166,PPUH Drózd,IT,Lubin,Nie
+167,Baumgart Sp.j.,Edukacja,Dzierżoniów,Nie
+168,PPUH Galos,Kultura,Cieszyn,Tak
+169,Grupa Skocz-Stoch i syn s.c.,Edukacja,Wągrowiec,Tak
+170,Klatka-Gwardiak Sp.k.,Logistyka,Szczecinek,Nie
+171,Spółdzielnia Gwara,Inżynieria,Legnica,Tak
+172,Fundacja Żelazo,Inżynieria,Krotoszyn,Nie
+173,Glica-Głuszko S.A.,Inżynieria,Rybnik,Nie
+174,Gabinety Janiuk-Mądro Sp. z o.o. Sp.k.,Inżynieria,Konin,Tak
+175,Szyda Sp. z o.o.,Logistyka,Chrzanów,Nie
+176,Grupa Burzec-Gamrat Sp.j.,IT,Turek,Tak
+177,Nastaj-Barcz Sp.k.,Administracja,Grodzisk Mazowiecki,Tak
+178,Taranek-Sierżant Sp. z o.o. Sp.k.,Edukacja,Katowice,Tak
+179,Mzyk-Daniec Sp. z o.o.,Zdrowie,Nowy Targ,Tak
+180,Teterycz S.A.,Ekonomia,Jasło,Nie
+181,Gabinety Dubel Sp. z o.o.,IT,Ostrów Mazowiecka,Tak
+182,Gabinety Koss Sp.k.,Edukacja,Opole,Nie
+183,Gabinety Pawełkiewicz,Logistyka,Ruda Śląska,Tak
+184,PPUH Koźlak,Inżynieria,Sochaczew,Nie
+185,FPUH Andruszko s.c.,Ekonomia,Biłgoraj,Tak
+186,FPUH Zaguła,Administracja,Włocławek,Nie
+187,Spółdzielnia Kotlarek,Logistyka,Łowicz,Nie
+188,FPUH Senger-Piaścik Sp. z o.o. Sp.k.,Kultura,Czeladź,Tak
+189,Windak Sp. z o.o.,Ekonomia,Warszawa,Nie
+190,Graj Sp. z o.o.,Ekonomia,Łaziska Górne,Nie
+191,Spółdzielnia Bieszke-Olesiejuk s.c.,Kultura,Jarocin,Nie
+192,Pazdan-Szatanik s.c.,Administracja,Zakopane,Nie
+193,Stowarzyszenie Hass i syn s.c.,Kultura,Nowa Sól,Nie
+194,Zaraś-Jodko S.A.,Inżynieria,Dzierżoniów,Nie
+195,Fundacja Andryszczyk-Wochnik Sp.k.,Administracja,Szczecinek,Nie
+196,Grupa Sus-Bałdys Sp. z o.o. Sp.k.,Kultura,Krosno,Tak
+197,Dzikiewicz Sp. z o.o.,Inżynieria,Gdynia,Nie
+198,Pacia i syn s.c.,Inżynieria,Sandomierz,Tak
+199,Stowarzyszenie Piesik Sp.j.,Kultura,Police,Tak
+200,Stowarzyszenie Maruszczyk,Kultura,Chojnice,Tak
